@@ -14,7 +14,7 @@ The objective of the challenge is to build intelligent systems capable of rankin
 
 * Competition: Smart MCQ Solver Challenge
 * Platform: Kaggle
-* Notebook: DL-22f3001900-notebook-t22026
+* Notebook: DL-22f3001900-notebook-t22026-milestone-1
 * Repository: dl-genai-project-26-t1
 
 ---
